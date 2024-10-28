@@ -1,0 +1,54 @@
+#heading\ 1{
+    text-align: center;
+
+}
+.paragraph{
+    font-family: "Bell MT";
+    font-size: medium;
+}
+#mydivision{
+    background-color: aqua;
+    margin: 40px;
+    padding: 30px;
+    color: #4a0616;
+}
+#test{
+    background-color: green;
+    margin: 40px;
+    padding: 40px;
+    display: flex;
+    color: aliceblue;
+
+}
+#test img{
+    margin-right: 40px;
+    border-radius: 400px;
+}
+#main{
+    display: flex;
+}
+#advertisement{
+    background-color: #70cd32;
+    color: aliceblue;
+    margin-left: 20px;
+    padding: 30px;
+    box-shadow: 8px 6px 12px 4px #41d10d;
+}
+#accounting{
+     background-color: #325ecd;
+    color: aliceblue;
+    margin-left: 20px;
+    padding: 30px;
+    box-shadow: 8px 6px 12px 4px #41d10d;
+
+}
+#payment{
+     background-color: #b832cd;
+    color: aliceblue;
+    margin-left: 20px;
+    padding: 30px;
+    box-shadow: 8px 6px 12px 4px #3ec50d;
+}
+#advertisement:hover,#accounting:hover,#payment:hover{
+    background-color: gray;
+}
